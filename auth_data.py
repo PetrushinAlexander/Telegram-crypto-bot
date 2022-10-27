@@ -1,1 +1,1 @@
-token = "5786702376:AAFIDX3Mtr7Os0htMiVM5ZvZjfYmACDfWAA"
+token = "API KEY"
